@@ -1,7 +1,7 @@
 <script lang="ts">
     import astronaut from "$lib/images/void.svg";
-    export let data: any;
-    export let form: any;
+    export const data = {};
+    export const form = {};
 </script>
 
 <section class="flex justify-center items-center">
