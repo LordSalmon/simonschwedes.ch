@@ -1,0 +1,6 @@
+{
+    "extends": "@sanity/eslint-config-studio",
+    "rules": {
+        "indent": ["error", 4],
+    }
+}

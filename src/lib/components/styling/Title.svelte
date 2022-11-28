@@ -1,0 +1,1 @@
+<span class="font-semibold text-2xl block mb-2"><slot /></span>

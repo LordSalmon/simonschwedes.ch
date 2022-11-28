@@ -1,0 +1,1 @@
+export const getSkills = "*[_type == 'skill']";
