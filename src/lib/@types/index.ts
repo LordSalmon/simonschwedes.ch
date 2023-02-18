@@ -3,3 +3,13 @@ export type Link = {
     url: string;
     icon?: string;
 }
+
+export type Skill = {
+    title: string;
+    url: string;
+    image: {
+        asset: {
+            _ref: string;
+        };
+    };
+};
