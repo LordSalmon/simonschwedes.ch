@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Heyhoo</title>
+</svelte:head>
+
 <script lang="ts">
     import Skills from "$lib/components/main/Skills.svelte";
     import type { PageData } from "./$types";
