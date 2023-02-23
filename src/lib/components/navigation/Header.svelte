@@ -14,7 +14,7 @@
 
 <div class="flex items-center justify-between box-border p-4 h-24">
     <div class="flex items-center">
-        <a href="/" class="header__chevron outline-0">
+        <a href="/" class="header__chevron outline-0" aria-label="home button">
             <Icon icon="material-symbols:chevron-right" height="4rem" />
         </a>
         <span class="text-3xl font-medium">{title}</span>
