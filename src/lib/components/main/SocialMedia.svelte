@@ -39,6 +39,7 @@
             target="_blank"
             rel="noopener noreferrer"
             class="pointer-events-auto text-3xl box-border px-8 py-[0.75rem] last:pb-8 hover:-rotate-3 transition-all duration-100 hover:scale-[1.1] text-gray-300 hover:text-white"
+            aria-label={name}
         >
             <Icon 
                   icon={icon} 
