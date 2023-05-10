@@ -20,7 +20,7 @@
 
 <div class="box-border p-6">
     <div class="mb-8">
-            <input
+            <input value="{search}" />
     </div>
     <div class="flex flex-wrap justify-start items-start">
         {#each utils as util}
