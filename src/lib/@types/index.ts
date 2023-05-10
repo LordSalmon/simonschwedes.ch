@@ -13,3 +13,10 @@ export type Skill = {
         };
     };
 };
+
+export type Util = {
+    title: string;
+    url: string;
+    description?: string;
+    thumbnail?: string;
+}

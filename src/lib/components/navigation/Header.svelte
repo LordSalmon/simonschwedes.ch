@@ -20,7 +20,7 @@
         <span class="text-3xl font-medium">{title}</span>
     </div>
     <div>
-        <HeaderButton url="https://blog.simonschwedes.ch" text="Blog" disabled="{true}" />
+        <!--<HeaderButton url="https://blog.simonschwedes.ch" text="Blog" disabled="{true}" />-->
     </div>
 </div>
 

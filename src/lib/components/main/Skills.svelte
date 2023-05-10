@@ -21,6 +21,8 @@
                     class="w-10"
                     src={getURLForSource(skill.image).url()}
                     alt="{skill.title}-Logo"
+                    width="40"
+                    height="40"
                 />
             </a>
         {/each}
