@@ -10,11 +10,6 @@
             icon: "mdi:github",
         },
         {
-            name: "Twitter",
-            url: "https://twitter.com/LachsLord",
-            icon: "mdi:twitter",
-        },
-        {
             name: "LinkedIn",
             url: "https://www.linkedin.com/in/simon-schwedes-2367561b3/",
             icon: "mdi:linkedin",
