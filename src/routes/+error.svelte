@@ -5,6 +5,6 @@
 </script>
 
 <section class="flex justify-center items-center">
-	das ist ein test
+	das ist ein test 2
 	<img src={astronaut} alt="man who stares into the void" class="h-[75vh]" />
 </section>
